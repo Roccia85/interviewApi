@@ -1,3 +1,4 @@
+Creare un branch con il proprio nick</br>
 Eseguire `npm run start` per far partire il server.</br>
 Nel codice presente, i dati proiettati sui grafici sono recuperati dai file json di esempio. Obiettivo dell'esercizio è sostituire i dati di esempio con quelli recuperati dalle API indicate nei commenti dei due file </br>
 
