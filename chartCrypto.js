@@ -3,6 +3,7 @@
 const moment = require("moment") //https://momentjs.com/docs/
 const exampleData = require("./exampleDataCrypto.json")
 module.exports.default = function (req, res, next) {
-    var rp = require('request-promise'); //https://www.npmjs.com/package/request-promise   
+    var rp = require('request-promise'); //https://www.npmjs.com/package/request-promise
+    res.send(exampleData)
 }
 
